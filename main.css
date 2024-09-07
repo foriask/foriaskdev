@@ -1,13 +1,15 @@
-h1{
-    color: violet;
+.title{
+    color: rgb(102, 230, 194);
     margin-left: 120px;
+    margin-right: 60px;
+    border-bottom-style: solid;
 }
 body{
-    background-color: #000444;
+    background-color: #000000;
 }
 p{
-    color: aliceblue;
-    margin-left: 80px;
+    color: rgb(248, 243, 216);
+    margin-left: 100px;
 }
 div{
     margin-left: 10px;
