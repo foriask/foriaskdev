@@ -1,11 +1,14 @@
 h1{
     color: violet;
-    margin-left: 25%;
+    margin-left: 120px;
 }
 body{
     background-color: #000444;
 }
 p{
     color: aliceblue;
-    margin-left: 15%;
+    margin-left: 80px;
+}
+div{
+    margin-left: 10px;
 }
