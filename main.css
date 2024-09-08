@@ -18,11 +18,11 @@ div{
 }
 a.discord{
     background-color: #343434;
-    color: rgb(102, 179, 230);
+    color: rgb(74, 123, 198);
 }
 a.twitch{
     background-color: #1f1f1f;
-    color: rgb(104, 45, 151);
+    color: rgb(132, 57, 193);
 }
 a:link, a:visited {
     outline-style: solid;
