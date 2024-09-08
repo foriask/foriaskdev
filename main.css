@@ -18,11 +18,23 @@ div{
 }
 a.discord{
     background-color: #343434;
-    color: rgb(74, 123, 198);
+    color: rgb(95, 159, 255);
 }
 a.twitch{
     background-color: #1f1f1f;
-    color: rgb(132, 57, 193);
+    color: rgb(177, 95, 244);
+}
+a.twitter{
+    background-color: #343434;
+    color: rgb(255, 255, 255);
+}
+a.youtube{
+    background-color: #1f1f1f;
+    color: rgb(232, 47, 47);
+}
+a.github{
+    background-color: #343434;
+    color: rgb(252, 252, 252);
 }
 a:link, a:visited {
     outline-style: solid;
