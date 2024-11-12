@@ -16,7 +16,7 @@ p{
 div{
     margin-left: 10px;
 }
-.awa{
+.neptune_image{
     margin-right: 100px;
 }
 a.discord{
@@ -52,4 +52,7 @@ a:link, a:visited {
 }
 a:hover, a:active {
     background-color: rgb(74, 45, 69);
+}
+.slider_zone {
+    margin-left: 10px;
 }
